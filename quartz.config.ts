@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Randy Lariar - Blog",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "blog.lariar.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -29,15 +29,15 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#3b4b55",  // Page background: a deep blue-gray to provide a moody but not overly dark base.
+          lightgray: "#AEB7BD",  // Borders: a light gray for clear separation without being too harsh.
+          gray: "#717D86",  // Graph links and heavier borders: a mid-tone gray with some contrast against lightgray.
+          darkgray: "#D1D1D1",  // Body text: a much lighter gray for readability against a dark background.
+          dark: "#F0F0F0",  // Header text and icons: near white for prominent readability.
+          secondary: "#4A90E2",  // Link color and current graph node: a bright, noticeable blue for clear visual cues.
+          tertiary: "#667c85",  // Hover states and visited graph nodes: a subtle bluish-gray to differentiate visited/hovered states.
+          highlight: "rgba(143, 159, 169, 0.25)",  // Internal link background, highlighted text: slightly lightened for a clear highlight but not too intrusive.
+          textHighlight: "#FFF60088",  // Markdown highlighted text background: a bright yellow, soft yet visible.
         },
         darkMode: {
           light: "#161618",
