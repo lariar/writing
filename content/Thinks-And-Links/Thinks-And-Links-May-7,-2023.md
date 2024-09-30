@@ -2,15 +2,15 @@
 title: Thinks And Links May 7, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- AI
-- Machine Learning
-- Cybersecurity
-- AI Policy
-- AI Ethics
-- AI Innovation
-- Data Privacy
+  - Big Data
+  - Data Analytics
+  - AI
+  - Machine Learning
+  - Cybersecurity
+  - AI Policy
+  - AI Ethics
+  - AI Innovation
+  - Data Privacy
 ---
 
 # Big Data & Analytics - Thinks and Links | May 7, 2023

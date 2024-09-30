@@ -2,14 +2,14 @@
 title: Thinks And Links July 29, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- NIST AI Risk Management Framework
-- AI Governance
-- AI Ethics
-- Machine Learning
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - NIST AI Risk Management Framework
+  - AI Governance
+  - AI Ethics
+  - Machine Learning
 ---
 
 # Big Data & Analytics - Thinks & Links | July 29, 2023
@@ -88,4 +88,4 @@ This editorial by a former Biden Administration official calls for the use of Ex
 
 ---
 
-*[1] – Fun fact, in addition to publishing the paper on ChatGPT’s apparent decreasing capabilities, **Matei Zaharia** is CTO and Cofounder of Databricks and the creator of Apache Spark. This research paper is via his role as a Computer Science professor at Berkeley, although Databricks does have an excellent GPT-3 alternative in **Dolly**. *
+_[1] – Fun fact, in addition to publishing the paper on ChatGPT’s apparent decreasing capabilities, **Matei Zaharia** is CTO and Cofounder of Databricks and the creator of Apache Spark. This research paper is via his role as a Computer Science professor at Berkeley, although Databricks does have an excellent GPT-3 alternative in **Dolly**. _

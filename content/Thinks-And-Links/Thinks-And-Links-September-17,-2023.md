@@ -2,14 +2,14 @@
 title: Thinks And Links September 17, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- AI
-- Generative AI
-- Cybersecurity
-- AI Security
-- AI and Privacy
-- AI Models
+  - Big Data
+  - Data Analytics
+  - AI
+  - Generative AI
+  - Cybersecurity
+  - AI Security
+  - AI and Privacy
+  - AI Models
 ---
 
 # Big Data & Analytics - Thinks and Links | September 17, 2023
@@ -48,7 +48,7 @@ https://www.securitymagazine.com/articles/99884-generative-ai-in-the-enterprise-
 
 If you accept that Generative AI in the workplace is a matter of when and not if, then there’s several things you may want to work on in parallel. Organizations will move at different paces to adopt this technology in different ways, but regardless of pace and approach the following are useful investments in effort:
 
-Data liquidity – This is the first time I’ve seen this term used, but it’s a measure of how easy can data flow through the organization. I’d caveat that to be *Useful* Data Liquidity which would be data that is appropriately access controlled, governed, and of high quality. Data being essential for everything in the business – bad data = bad outcomes. Bad data in AI = fast and bad outcomes.
+Data liquidity – This is the first time I’ve seen this term used, but it’s a measure of how easy can data flow through the organization. I’d caveat that to be _Useful_ Data Liquidity which would be data that is appropriately access controlled, governed, and of high quality. Data being essential for everything in the business – bad data = bad outcomes. Bad data in AI = fast and bad outcomes.
 
 Multi-Cloud – The argument being that different business units and model needs may be best served by different cloud providers. The author recommends building the capability to scale up and down, have options for failover, and select the best cost solution.
 
@@ -70,13 +70,13 @@ This article is about a year old, but I found it to be very insightful in the di
 
 Critiques like this are useful to build a holistic picture of AI Security. It is very likely that future versions of the NIST AI RMF will include these concepts:
 
-*GOVERN should include suggest org establish minium response times for model issues.*
+_GOVERN should include suggest org establish minium response times for model issues._
 
-*MAP should explicitly call out the drift issue and suggest that the org have minimum performance requirements.*
+_MAP should explicitly call out the drift issue and suggest that the org have minimum performance requirements._
 
-*MEASURE should explicitly require continuous monitoring of performance. Orgs will do one off performance evaluations as continuous monitoring can be expensive.*
+_MEASURE should explicitly require continuous monitoring of performance. Orgs will do one off performance evaluations as continuous monitoring can be expensive._
 
-*MANAGE should include a suggestion for a scheduled model lifecycle, or performance based triggered redeployments.*
+_MANAGE should include a suggestion for a scheduled model lifecycle, or performance based triggered redeployments._
 
 Protect Your Business from AI Cyberthreats
 
@@ -118,4 +118,4 @@ Have a Great Weekend!
 
 ![](../images\1694987442167)
 
-*This is important for when we’re all talking to our computers like in Star Trek*
+_This is important for when we’re all talking to our computers like in Star Trek_

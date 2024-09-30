@@ -2,15 +2,15 @@
 title: Thinks And Links January 13, 2024
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- Generative AI
-- OpenAI
-- AI Vulnerabilities
-- Technology News
-- AI Security
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - Generative AI
+  - OpenAI
+  - AI Vulnerabilities
+  - Technology News
+  - AI Security
 ---
 
 # Thinks & Links | January 13, 2024
@@ -23,7 +23,7 @@ Big Data & Analytics - Thinks and Links | News and insights at the intersection 
 
 ![](../https://media.licdn.com/mediaD4E12AQGC2AuwImjKUw)
 
-*New for 2024: 📫 **Subscribe to Thinks & Links** direct to your inbox*
+_New for 2024: 📫 **Subscribe to Thinks & Links** direct to your inbox_
 
 #### Happy Weekend!
 
@@ -75,7 +75,7 @@ Perplexity is a great search engine that uses AI to find and synthesize informat
 
 https://www.cnet.com/pictures/coolest-ai-tech-ces-2024-weve-seen-so-far/
 
-The Consumer Electronics Show (CES) this week featured demonstrations from technology brands of futuristic devices and *a lot* of generative AI. This CNET article runs down some of the biggest announcements from the annual technology event:
+The Consumer Electronics Show (CES) this week featured demonstrations from technology brands of futuristic devices and _a lot_ of generative AI. This CNET article runs down some of the biggest announcements from the annual technology event:
 
 An AI-only device called Rabbit launched, with a $200 mini screen and camera that does nothing except interact with the onboard chatbot.
 

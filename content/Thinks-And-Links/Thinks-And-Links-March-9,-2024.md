@@ -2,16 +2,16 @@
 title: Thinks And Links March 9, 2024
 draft: false
 tags:
-- AI
-- Big Data
-- Data Analytics
-- Cybersecurity
-- Generative AI
-- AI Security
-- Remote Work
-- AI Risks
-- AI Ethics
-- OpenAI
+  - AI
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - Generative AI
+  - AI Security
+  - Remote Work
+  - AI Risks
+  - AI Ethics
+  - OpenAI
 ---
 
 # Thinks & Links | March 9, 2024
@@ -24,7 +24,7 @@ Big Data & Analytics - Thinks and Links | News and insights at the intersection 
 
 ![](../https://media.licdn.com/mediaD4E12AQFH9glVH3MXbA)
 
-*📫 **Subscribe to Thinks & Links** direct to your inbox*
+_📫 **Subscribe to Thinks & Links** direct to your inbox_
 
 ### Happy Weekend!
 
@@ -56,7 +56,7 @@ It'll be on us - the readers of this newsletter and those like us - to think car
 
 ---
 
-#### 
+####
 
 #### Klarna Cuts Deep
 
@@ -128,4 +128,4 @@ It would be strange to write a newsletter about AI and not at least mention the 
 
 ---
 
-*You can now chat with the newsletter archive at **https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest*
+_You can now chat with the newsletter archive at \*\*https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest_

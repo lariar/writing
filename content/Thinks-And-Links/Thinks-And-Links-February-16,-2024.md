@@ -2,17 +2,17 @@
 title: Thinks And Links February 16, 2024
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- Generative Video
-- OpenAI
-- AI Safety
-- Deepfake
-- Ethics in AI
-- Data Security
-- AI Innovation
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - Generative Video
+  - OpenAI
+  - AI Safety
+  - Deepfake
+  - Ethics in AI
+  - Data Security
+  - AI Innovation
 ---
 
 # Thinks and Links | February 16, 2024
@@ -25,7 +25,7 @@ Big Data & Analytics - Thinks and Links | News and insights at the intersection 
 
 ![](../https://media.licdn.com/mediaD4E12AQGVprUOvL_rBg)
 
-*📫 **Subscribe to Thinks & Links** direct to your inbox*
+_📫 **Subscribe to Thinks & Links** direct to your inbox_
 
 ### Happy Friday!
 
@@ -53,7 +53,7 @@ Gemini 1.5 Pro has been demonstrating advanced abilities in analyzing and summar
 
 Google is working on performing the rigorous ethics and safety testing to meet its AI Principles. They will likely continue to roll out Gemini 1.5 Pro to select users, with pricing tiers for different levels of service in the future.
 
-#### 
+####
 
 ChatGPT
 
@@ -123,7 +123,7 @@ https://press.airstreet.com/p/the-case-for-open-source-ai
 
 Open source innovation has massively accelerated software development and is a major factor in AI's rapid evolution. Yet, a looming cloud of regulation threatens to skew the playing field towards the old guard. This article makes the case for keeping AI Open because it is essential for nurturing research, fostering competitive landscapes, and ensuring our collective digital safety. True safety, continued innovation, and equitable technological advancement may mean accepting some of the risks that come with open source AI.
 
-#### 
+####
 
 #### AI Security Pentest
 
@@ -151,7 +151,7 @@ Leaking sensitive training data: Attackers might extract sensitive training data
 
 Relying solely on model-based restrictions is inadequate; a comprehensive approach encompassing system and data lifecycle security is crucial for robust defense against emerging LLM vulnerabilities.
 
-#### 
+####
 
 #### Deepfaked video conference call costs company $25M
 
@@ -159,7 +159,7 @@ https://cybernews.com/news/deepfake-video-conference-call-hong-kong/
 
 In a sophisticated fraud case in Hong Kong, scammers used deepfake technology to impersonate officials from a multinational company during a video conference, tricking an employee into transferring $25 million to fraudulent accounts. Initially skeptical, the employee was convinced after recognizing the digital replicas of his colleagues. The fraud was discovered only after he confirmed the transactions with the company's head office. This incident is part of a rising trend where deepfake technology is used for financial scams and non-consensual explicit content, prompting legislative responses such as the DEFIANCE Act in the US to combat this issue.
 
-#### 
+####
 
 #### Embracing the Future of AI with Varonis (and Optiv)
 

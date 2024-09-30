@@ -2,14 +2,14 @@
 title: Thinks And Links June 14, 2024
 draft: false
 tags:
-- AI
-- Big Data
-- Data Analytics
-- Cybersecurity
-- Privacy
-- Machine Learning
-- Technology News
-- AI Privacy Concerns
+  - AI
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - Privacy
+  - Machine Learning
+  - Technology News
+  - AI Privacy Concerns
 ---
 
 # Thinks and Links | June 14, 2024
@@ -72,7 +72,7 @@ What comes next? Ask Siri....
 
 ---
 
-#### 
+####
 
 #### Total Recall
 
@@ -122,4 +122,4 @@ A comprehensive study of nearly 5,000 research papers that involved AI review an
 
 ---
 
-*You can chat with the newsletter archive at **https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest*
+_You can chat with the newsletter archive at \*\*https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest_

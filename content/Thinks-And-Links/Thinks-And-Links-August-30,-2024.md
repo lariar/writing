@@ -2,18 +2,18 @@
 title: Thinks And Links August 30, 2024
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI Governance
-- Risk Management
-- Cloud Engineering
-- Generative AI
-- AI Safety
-- California Legislation
-- AI Models
-- Tech News
-- AI Policy
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI Governance
+  - Risk Management
+  - Cloud Engineering
+  - Generative AI
+  - AI Safety
+  - California Legislation
+  - AI Models
+  - Tech News
+  - AI Policy
 ---
 
 # Thinks and Links | August 30, 2024
@@ -80,9 +80,9 @@ https://www.linkedin.com/posts/andy-jassy-8b1615_one-of-the-most-tedious-but-cri
 
 As soon as I find an article like the example of bad cloud engineering, of course Andy Jassy, CEO of Amazon, has to post something like this:
 
-*"The average time to upgrade an application to Java 17 plummeted from what’s typically 50 developer-days to just a few hours. We estimate this has saved us the equivalent of 4,500 developer-years of work (yes, that number is crazy but, real)."*
+_"The average time to upgrade an application to Java 17 plummeted from what’s typically 50 developer-days to just a few hours. We estimate this has saved us the equivalent of 4,500 developer-years of work (yes, that number is crazy but, real)."_
 
-*"The upgrades have enhanced security and reduced infrastructure costs, providing an estimated $260M in annualized efficiency gains."*
+_"The upgrades have enhanced security and reduced infrastructure costs, providing an estimated $260M in annualized efficiency gains."_
 
 In the right hands and with the right security controls, there are massive advantages to be unlocked.
 
@@ -122,7 +122,7 @@ The LMSYS Chatbot arena has already shown that 20k+ community votes have propell
 
 https://www.lesswrong.com/posts/8oX4FTRa8MJodArhj/the-information-openai-shows-strawberry-to-feds-races-to
 
-OpenAI is making headlines with its new AI model, codenamed "Strawberry" (formerly Q*), which showcases remarkable reasoning abilities. Strawberry can solve complex math problems and programming tasks it's never encountered before and even excels in language challenges like the New York Times Connections puzzles. With fewer errors and hallucinations than existing models, it's poised to be a game-changer. OpenAI plans to launch Strawberry as part of a chatbot, possibly within ChatGPT, by fall 2024, while also using it to generate high-quality data for their next major model, "Orion." The model has already caught the attention of U.S. national security officials, who got an early look this summer. Will this be a new standard in AI capabilities or an incremental difference between current GPT-4o models - only time will tell.
+OpenAI is making headlines with its new AI model, codenamed "Strawberry" (formerly Q\*), which showcases remarkable reasoning abilities. Strawberry can solve complex math problems and programming tasks it's never encountered before and even excels in language challenges like the New York Times Connections puzzles. With fewer errors and hallucinations than existing models, it's poised to be a game-changer. OpenAI plans to launch Strawberry as part of a chatbot, possibly within ChatGPT, by fall 2024, while also using it to generate high-quality data for their next major model, "Orion." The model has already caught the attention of U.S. national security officials, who got an early look this summer. Will this be a new standard in AI capabilities or an incremental difference between current GPT-4o models - only time will tell.
 
 ---
 
@@ -132,4 +132,4 @@ OpenAI is making headlines with its new AI model, codenamed "Strawberry" (former
 
 📫 Subscribe to Thinks & Links direct to your inbox
 
-*You can also chat with the newsletter archive at **https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest*
+_You can also chat with the newsletter archive at \*\*https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest_

@@ -2,14 +2,14 @@
 title: Thinks And Links July 20, 2024
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- Generative AI
-- AI Adoption
-- Tech News
-- AI and Cybersecurity
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - Generative AI
+  - AI Adoption
+  - Tech News
+  - AI and Cybersecurity
 ---
 
 # Thinks and Links | July 20, 2024
@@ -94,4 +94,4 @@ I was interviewed for this article discussing the intersection of SOC Technology
 
 📫 Subscribe to Thinks & Links direct to your inbox
 
-*You can also chat with the newsletter archive at **https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest*
+_You can also chat with the newsletter archive at \*\*https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest_

@@ -2,13 +2,13 @@
 title: Thinks And Links December 23, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- News
-- Newsletter
-- BD&A
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - News
+  - Newsletter
+  - BD&A
 ---
 
 # BD&A - Thinks & Links | December 23, 2023
@@ -27,4 +27,4 @@ Big Data & Analytics - Thinks and Links | News and insights at the intersection 
 
 ---
 
-*Chat with the archive of this newsletter at **https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest*
+_Chat with the archive of this newsletter at \*\*https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest_

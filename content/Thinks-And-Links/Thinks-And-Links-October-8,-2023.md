@@ -2,14 +2,14 @@
 title: Thinks And Links October 8, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- Machine Learning
-- Generative AI
-- AI Security
-- Technology News
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - Machine Learning
+  - Generative AI
+  - AI Security
+  - Technology News
 ---
 
 # Thinks and Links | October 8, 2023

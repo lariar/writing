@@ -2,14 +2,14 @@
 title: Thinks And Links September 8, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- AI
-- Cybersecurity
-- Data Privacy
-- Generative AI
-- AI Adoption
-- AI in Business
+  - Big Data
+  - Data Analytics
+  - AI
+  - Cybersecurity
+  - Data Privacy
+  - Generative AI
+  - AI Adoption
+  - AI in Business
 ---
 
 # Big Data & Analytics - Thinks & Links | September 8, 2023

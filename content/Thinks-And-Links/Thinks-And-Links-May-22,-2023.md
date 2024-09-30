@@ -2,13 +2,13 @@
 title: Thinks And Links May 22, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- AI Regulation
-- AI Ethics
-- Data Privacy
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - AI Regulation
+  - AI Ethics
+  - Data Privacy
 ---
 
 # Big Data & Analytics - Thinks and Links | May 22, 2023

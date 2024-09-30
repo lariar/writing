@@ -2,14 +2,14 @@
 title: Thinks And Links July 8, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- Machine Learning
-- Generative AI
-- Event-Driven Architecture
-- Software Development
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - Machine Learning
+  - Generative AI
+  - Event-Driven Architecture
+  - Software Development
 ---
 
 # Big Data & Analytics - Thinks and Links | July 8, 2023
@@ -90,4 +90,4 @@ Have a Great Weekend!
 
 ![No alt text provided for this image](../images\1688788425182)
 
-﻿
+

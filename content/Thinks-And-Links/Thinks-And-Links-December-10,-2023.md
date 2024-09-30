@@ -2,16 +2,16 @@
 title: Thinks And Links December 10, 2023
 draft: false
 tags:
-- AI
-- Big Data
-- Data Analytics
-- Cybersecurity
-- Generative AI
-- Machine Learning
-- AI Policy
-- AI Ethics
-- Technology News
-- AI Models
+  - AI
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - Generative AI
+  - Machine Learning
+  - AI Policy
+  - AI Ethics
+  - Technology News
+  - AI Models
 ---
 
 # BD&A - Thinks and Links | December 10, 2023

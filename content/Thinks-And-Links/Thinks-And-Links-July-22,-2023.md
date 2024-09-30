@@ -2,16 +2,16 @@
 title: Thinks And Links July 22, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- Large Language Models
-- AI Policy
-- AI Strategy
-- AI Regulation
-- AI Security
-- AI Development
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - Large Language Models
+  - AI Policy
+  - AI Strategy
+  - AI Regulation
+  - AI Security
+  - AI Development
 ---
 
 # Big Data & Analytics - Thinks & Links | July 22, 2023

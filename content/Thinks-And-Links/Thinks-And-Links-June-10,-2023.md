@@ -2,14 +2,14 @@
 title: Thinks And Links June 10, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- AI
-- Cybersecurity
-- AI Policy
-- Shadow IT
-- Machine Learning
-- AI Ethics
+  - Big Data
+  - Data Analytics
+  - AI
+  - Cybersecurity
+  - AI Policy
+  - Shadow IT
+  - Machine Learning
+  - AI Ethics
 ---
 
 # Big Data & Analytics - Thinks and Links | June 10, 2023
@@ -88,4 +88,4 @@ Have a Great Weekend!
 
 ---
 
-*If you’re still reading down this far, reply back to share which AI hype story should be deconstructed next week!*
+_If you’re still reading down this far, reply back to share which AI hype story should be deconstructed next week!_

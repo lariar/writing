@@ -2,16 +2,16 @@
 title: Thinks And Links August 5, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- Large Language Models
-- Data Governance
-- AI Policies
-- AI Innovation
-- Data Privacy
-- Tech News
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - Large Language Models
+  - Data Governance
+  - AI Policies
+  - AI Innovation
+  - Data Privacy
+  - Tech News
 ---
 
 # Big Data & Analytics - Thinks & Links | August 5, 2023

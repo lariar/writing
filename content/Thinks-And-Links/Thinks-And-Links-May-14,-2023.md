@@ -2,17 +2,17 @@
 title: Thinks And Links May 14, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- OpenAI
-- Google
-- Microsoft
-- ChatGPT
-- Software Development
-- Machine Learning
-- Technology News
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - OpenAI
+  - Google
+  - Microsoft
+  - ChatGPT
+  - Software Development
+  - Machine Learning
+  - Technology News
 ---
 
 # Big Data & Analytics - Thinks and Links | May 14, 2023

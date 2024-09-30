@@ -2,20 +2,20 @@
 title: Thinks And Links August 12, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- Technology Advancements
-- Generative AI
-- Natural Language Processing
-- Economic Development
-- Security Risks
-- Governance
-- Azure OpenAI
-- Data Security
-- AI Strategy
-- Productivity
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - Technology Advancements
+  - Generative AI
+  - Natural Language Processing
+  - Economic Development
+  - Security Risks
+  - Governance
+  - Azure OpenAI
+  - Data Security
+  - AI Strategy
+  - Productivity
 ---
 
 # Big Data & Analytics - Thinks & Links | August 12, 2023
@@ -88,9 +88,9 @@ https://insights.alixpartners.com//post/102ik6t/unlocking-real-ebitda-value-with
 
 We focus a lot on Risk in this newsletter, but there’s an important but un-categorized Risk of doing all this work with Data and AI without focusing first on the value. Investors expect business operators to create more value using technology, and if we are going to start prioritizing which things to build and secure it helps to have a good framework on value. This article nicely summarizes the steps to do that:
 
-1) Answer foundational questions:
+1. Answer foundational questions:
 
-2) Then look at which EBIDTA enhancement lever is most relevant to your business:
+2. Then look at which EBIDTA enhancement lever is most relevant to your business:
 
 ---
 

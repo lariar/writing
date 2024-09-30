@@ -2,16 +2,16 @@
 title: Thinks And Links November 10, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- OpenAI
-- Generative AI
-- ChatGPT
-- AI Development
-- AI Safety
-- AI Security
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - OpenAI
+  - Generative AI
+  - ChatGPT
+  - AI Development
+  - AI Safety
+  - AI Security
 ---
 
 # Thinks and Links | November 10, 2023
@@ -54,7 +54,7 @@ Create an agent with multiple prompts that can use the vector database to answer
 
 Tinker and modify several different prompts to be sure it works well
 
-Time spent ~ 3 hours*
+Time spent ~ 3 hours\*
 
 ![](../images\1699673694800)
 

@@ -2,12 +2,12 @@
 title: Thinks And Links March 15, 2024
 draft: false
 tags:
-- Generative AI
-- Cybersecurity
-- AI Risks
-- AI Regulation
-- Machine Learning
-- AI Ethics
+  - Generative AI
+  - Cybersecurity
+  - AI Risks
+  - AI Regulation
+  - Machine Learning
+  - AI Ethics
 ---
 
 # Thinks & Links | March 15, 2024
@@ -20,7 +20,7 @@ Big Data & Analytics - Thinks and Links | News and insights at the intersection 
 
 ![](../https://media.licdn.com/mediaD4E12AQHgKY2iJG8BSg)
 
-*📫 **Subscribe to Thinks & Links** direct to your inbox*
+_📫 **Subscribe to Thinks & Links** direct to your inbox_
 
 ### Happy Friday!
 

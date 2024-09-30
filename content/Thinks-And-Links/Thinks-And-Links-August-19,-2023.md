@@ -2,17 +2,17 @@
 title: Thinks And Links August 19, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- Large Language Models
-- Databricks
-- Machine Learning
-- Model Governance
-- AI Cybersecurity
-- DEF CON
-- AI Deployment
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - Large Language Models
+  - Databricks
+  - Machine Learning
+  - Model Governance
+  - AI Cybersecurity
+  - DEF CON
+  - AI Deployment
 ---
 
 # Big Data & Analytics - Thinks and Links | August 19, 2023

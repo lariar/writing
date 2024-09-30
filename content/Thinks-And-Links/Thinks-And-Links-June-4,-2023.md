@@ -2,13 +2,13 @@
 title: Thinks And Links June 4, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- AI
-- Cybersecurity
-- Generative AI
-- AI Safety
-- AI Transparency
+  - Big Data
+  - Data Analytics
+  - AI
+  - Cybersecurity
+  - Generative AI
+  - AI Safety
+  - AI Transparency
 ---
 
 # Big Data & Analytics - Thinks and Links | June 4, 2023
@@ -25,7 +25,7 @@ Happy Sunday!
 
 It appears that chains are the future. When ChatGPT started to take the world by storm earlier this year, there was a moment where “Prompt Engineer” sounded like the next hot new job. However recent research and practical applications of AI (including Optiv projects) are showing the value of thinking in chains rather than in mega-prompts.
 
-A lot of recent research and development has been focused on the impact of chaining AI prompts together, which has shown great promise in enhancing both the quality and the safety of AI outputs. (An Example) Instead of relying on a single prompt, we create a series of prompts and use the output of one as the input for the next. This process can take various forms such as pre-processing raw text inputs, refining the outputs, or even generating text in a specific format and quality  . It's a bit like handing off a baton in a relay race, with each leg of the race being a different prompt and task. This chaining approach provides several key benefits:
+A lot of recent research and development has been focused on the impact of chaining AI prompts together, which has shown great promise in enhancing both the quality and the safety of AI outputs. (An Example) Instead of relying on a single prompt, we create a series of prompts and use the output of one as the input for the next. This process can take various forms such as pre-processing raw text inputs, refining the outputs, or even generating text in a specific format and quality . It's a bit like handing off a baton in a relay race, with each leg of the race being a different prompt and task. This chaining approach provides several key benefits:
 
 Safety and control are significantly enhanced by chaining AI prompts together. By breaking down complex tasks into smaller, more manageable sub-tasks, we can increase the likelihood of successful task completion. This is because each sub-task in the chain can be handled more effectively than if we tried to tackle the entire task in one go. For instance, instead of asking an AI model to write a constructive review in one step, we could break it down into smaller sub-tasks: extracting presentation problems, brainstorming suggestions, and then synthesizing these into a friendly paragraph. The result? A noticeably improved output .
 

@@ -2,17 +2,17 @@
 title: Thinks And Links February 23, 2024
 draft: false
 tags:
-- AI Policy
-- Cybersecurity
-- Deepfakes
-- Generative AI
-- AI Procurement
-- Shadow AI
-- Risk Management
-- AI Ethics
-- Data Privacy
-- Big Data
-- Data Analytics
+  - AI Policy
+  - Cybersecurity
+  - Deepfakes
+  - Generative AI
+  - AI Procurement
+  - Shadow AI
+  - Risk Management
+  - AI Ethics
+  - Data Privacy
+  - Big Data
+  - Data Analytics
 ---
 
 # Thinks & Links | February 23, 2024
@@ -25,7 +25,7 @@ Big Data & Analytics - Thinks and Links | News and insights at the intersection 
 
 ![](../https://media.licdn.com/mediaD5612AQGrdJCHO1uvzw)
 
-*📫 **Subscribe to Thinks & Links** direct to your inbox*
+_📫 **Subscribe to Thinks & Links** direct to your inbox_
 
 ### Happy Friday!
 
@@ -33,7 +33,7 @@ Big Data & Analytics - Thinks and Links | News and insights at the intersection 
 
 (https://arstechnica.com/tech-policy/2024/02/air-canada-must-honor-refund-policy-invented-by-airlines-chatbot/
 
-Air Canada deployed a LLM based chatbot to help with customer service. When the bot hallucinated a bereavement policy, the airline tried to get out of honoring it by claiming the user should have known not to trust the chatbot. Canadian courts politely disagreed, and the customer got his *partial* refund. Many thoughts about this story, but probably the most incredible was the lengths Air Canada went to try and keep the money of a man who was just trying to make it home for his grandmother's funeral. If they had consulted ChatGPT, they might have realized the $1,200 this ticket would cost them is far far less than the badwill (and the chatbot development costs) that they had to deal with instead. Don't fly Air Canada - that's the main takeaway. Also be prepared to live with the consequences of whatever your AI dreams up. Guardrails and controls would be helpful here.
+Air Canada deployed a LLM based chatbot to help with customer service. When the bot hallucinated a bereavement policy, the airline tried to get out of honoring it by claiming the user should have known not to trust the chatbot. Canadian courts politely disagreed, and the customer got his _partial_ refund. Many thoughts about this story, but probably the most incredible was the lengths Air Canada went to try and keep the money of a man who was just trying to make it home for his grandmother's funeral. If they had consulted ChatGPT, they might have realized the $1,200 this ticket would cost them is far far less than the badwill (and the chatbot development costs) that they had to deal with instead. Don't fly Air Canada - that's the main takeaway. Also be prepared to live with the consequences of whatever your AI dreams up. Guardrails and controls would be helpful here.
 
 #### $25 Million Stolen with Deepfakes (and What to Do About It)
 
@@ -73,16 +73,16 @@ Microsoft's own AI Red Team has been hard at work over the last two years testin
 
 ---
 
-### 
+###
 
 ### Have a Great Weekend!
 
 ![](../images\1708718897202)
 
-#### 
+####
 
 ---
 
-#### 
+####
 
-*You can now chat with the newsletter archive at **https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest*
+_You can now chat with the newsletter archive at \*\*https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest_

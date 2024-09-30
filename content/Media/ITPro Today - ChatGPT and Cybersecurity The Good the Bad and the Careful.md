@@ -1,11 +1,10 @@
-
 > Source: [ITPro Today - ChatGPT and Cybersecurity: The Good, the Bad, and the Careful](https://www.itprotoday.com/security/chatgpt-and-cybersecurity-good-bad-and-careful) (Publication Date: March 15, 2023)
 
 # ChatGPT and Cybersecurity: The Good, the Bad, and the Careful
 
 Despite its benefits, ChatGPT has opened a Pandora's box of security risks. Here's what to know about protecting your company from criminal exploitation of AI-based chatbots.
 
-## The Good: How Companies Benefit From AI, Done Right 
+## The Good: How Companies Benefit From AI, Done Right
 
 Companies are using AI for many purposes, including improving internal and customer-facing searches and employee productivity. AI usage is expected to grow significantly, with Gartner predicting that by 2025, 30% of outbound marketing messages from organizations will be generated using AI, up from just 2% in 2022.
 
@@ -18,6 +17,7 @@ Lariar also points out that ChatGPT can help security and IT professionals:
 > "Now you've got ChatGPT, which takes that same kind of workflow, but you can now talk to it."
 
 Companies can use AI to strengthen cybersecurity defenses by:
+
 - Inferring patterns from incomplete or changed data
 - Reducing false positives
 - Identifying and responding to attacks

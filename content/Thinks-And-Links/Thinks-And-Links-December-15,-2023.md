@@ -2,16 +2,16 @@
 title: Thinks And Links December 15, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- Generative AI
-- Deep Learning
-- Machine Learning
-- AI Safety
-- AI Ethics
-- Generative AI Impact
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - Generative AI
+  - Deep Learning
+  - Machine Learning
+  - AI Safety
+  - AI Ethics
+  - Generative AI Impact
 ---
 
 # BD&A - Thinks & Links | December 15, 2023
@@ -112,4 +112,4 @@ Researchers at Google Deepmind demonstrated how AI could advance the frontiers o
 
 ![](../images\1702698612215)
 
-*Chat with the archive of this newsletter at **https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest*
+_Chat with the archive of this newsletter at \*\*https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest_

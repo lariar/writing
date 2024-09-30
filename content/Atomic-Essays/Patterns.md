@@ -1,5 +1,3 @@
-
-
 My twenty-month-old son's daily growth amazes me. He has taught me about the centrality of patterns in our lives.
 
 Patterns are one of the first things to develop in a child. Detecting faces (two spots (eyes) on top; up spot (mouth) on bottom) is one of the only things a newborn knows how to do. Around week 8, babies tend to get extra fussy due to the flood of patterns their brains begin to understand.
@@ -9,6 +7,7 @@ In what feels like 15 minutes later, babies become toddlers. They can recognize 
 Patterns are central to my career. Data analysis is all about pattern matching. Every step in a transformation. Every line of code. These all instruct the machines about how to match meaningful patterns in data. Learning (human and machine) involves repeat exposure to patterns.
 
 Strategy work is also driven by patterns and frameworks.
+
 - How to think about businesses and processes
 - How to engage with clients and stakeholders
 - What to do when trouble comes along

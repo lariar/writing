@@ -2,15 +2,15 @@
 title: Thinks And Links July 2, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- AI
-- Cybersecurity
-- Generative AI
-- Data Governance
-- AI Risk Management
-- MITRE ATT&CK
-- AI in Business
+  - Big Data
+  - Data Analytics
+  - AI
+  - Cybersecurity
+  - Generative AI
+  - Data Governance
+  - AI Risk Management
+  - MITRE ATT&CK
+  - AI in Business
 ---
 
 # Big Data & Analytics - Thinks & Links | July 2, 2023

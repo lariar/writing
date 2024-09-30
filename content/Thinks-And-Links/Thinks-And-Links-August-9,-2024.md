@@ -2,13 +2,13 @@
 title: Thinks And Links August 9, 2024
 draft: false
 tags:
-- AI
-- Cybersecurity
-- Large Language Models
-- Data Privacy
-- AI Security
-- Generative AI
-- AI Ethics
+  - AI
+  - Cybersecurity
+  - Large Language Models
+  - Data Privacy
+  - AI Security
+  - Generative AI
+  - AI Ethics
 ---
 
 # Thinks and Links | August 9, 2024
@@ -41,7 +41,7 @@ Some are concerned about bad actors, hackers, and nation states having this capa
 
 > Some people argue that we must close our models to prevent China from gaining access to them, but my view is that this will not work and will only disadvantage the US and its allies. Our adversaries are great at espionage, stealing models that fit on a thumb drive is relatively easy, and most tech companies are far from operating in a way that would make this more difficult. It seems most likely that a world of only closed models results in a small number of big companies plus our geopolitical adversaries having access to leading models, while startups, universities, and small businesses miss out on opportunities.
 
-*Some people argue that we must close our models to prevent China from gaining access to them, but my view is that this will not work and will only disadvantage the US and its allies. Our adversaries are great at espionage, stealing models that fit on a thumb drive is relatively easy, and most tech companies are far from operating in a way that would make this more difficult. It seems most likely that a world of only closed models results in a small number of big companies plus our geopolitical adversaries having access to leading models, while startups, universities, and small businesses miss out on opportunities.*
+_Some people argue that we must close our models to prevent China from gaining access to them, but my view is that this will not work and will only disadvantage the US and its allies. Our adversaries are great at espionage, stealing models that fit on a thumb drive is relatively easy, and most tech companies are far from operating in a way that would make this more difficult. It seems most likely that a world of only closed models results in a small number of big companies plus our geopolitical adversaries having access to leading models, while startups, universities, and small businesses miss out on opportunities._
 
 ![](../images\1723217001204)
 
@@ -197,4 +197,4 @@ The "AI Engineer" of the near future will be able to command an army of agents t
 
 📫 Subscribe to Thinks & Links direct to your inbox
 
-*You can also chat with the newsletter archive at **https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest*
+_You can also chat with the newsletter archive at \*\*https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest_

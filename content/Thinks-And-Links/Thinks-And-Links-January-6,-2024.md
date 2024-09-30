@@ -2,15 +2,15 @@
 title: Thinks And Links January 6, 2024
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- Generative AI
-- Data Science
-- Legal Issues in AI
-- AI and Data Management
-- Large Language Models
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - Generative AI
+  - Data Science
+  - Legal Issues in AI
+  - AI and Data Management
+  - Large Language Models
 ---
 
 # Thinks & Links | January 6, 2024
@@ -23,7 +23,7 @@ Big Data & Analytics - Thinks and Links | News and insights at the intersection 
 
 ![](../https://media.licdn.com/mediaD4E12AQG-hfUw7tbSuQ)
 
-*New for 2024: 📫 **Subscribe to Thinks & Links** direct to your inbox*
+_New for 2024: 📫 **Subscribe to Thinks & Links** direct to your inbox_
 
 ### Happy New Year!
 
@@ -81,13 +81,13 @@ A prediction for this year is that at some point Generative AI, and most likely 
 
 In a *69 page filing*, NYTimes alleges that the AI providers are facilitating copyright theft by using news articles for large language model training. The times complains that by prompting these LLMs in the right way, end users can retrieve full articles with little to no change in a verbatim copy of what the times would have written. Cases like this are to be expected, and we will see how the legal system treats text for AI model training of this nature. When an AI company can generate $1B+ in revenue from a model that includes copyright material, is a portion of that revenue owed as royalties? Because it involves a media company, other media companies are sure to cover it in detail as a new domain of case law is developed over the course of 2024.
 
-#### 
+####
 
 #### How to Hack LLMs
 
 https://www.youtube.com/watch?v=1epBOJqg10w
 
-Highly entertaining and informative talk from Mark C. (*@LargeCardinal*) covering the details of how language models work from the foundational transformer architecture up through the fun ways he’s found to hack them. Note-worthy ideas include some thoughts around securing the system message which causes the chatbot to behave as you’d like (or can be hijacked with clever prompt injection techniques) - in a concept he calls prompt sandboxing:
+Highly entertaining and informative talk from Mark C. (_@LargeCardinal_) covering the details of how language models work from the foundational transformer architecture up through the fun ways he’s found to hack them. Note-worthy ideas include some thoughts around securing the system message which causes the chatbot to behave as you’d like (or can be hijacked with clever prompt injection techniques) - in a concept he calls prompt sandboxing:
 
 ![](../images\1704540047765)
 

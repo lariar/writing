@@ -2,16 +2,16 @@
 title: Thinks And Links December 4, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- Generative AI
-- Large Language Models
-- ChatGPT
-- AI Security
-- Data Leadership
-- AI Applications
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - Generative AI
+  - Large Language Models
+  - ChatGPT
+  - AI Security
+  - Data Leadership
+  - AI Applications
 ---
 
 # BD&A - Thinks and Links | December 4, 2023
@@ -36,7 +36,7 @@ This Chatbot doesn’t hallucinate what it thinks you want to hear, but instead 
 
 ![](../images\1701701026515)
 
-You can ask it questions about the past articles or just topics of interest. It *should* rely only on articles that were previously shared in this newsletter. The fun thing about Language Models, however, is that you can’t be certain that it will behave. The hackers in this audience might try to get into the details of this agent by asking something like this:
+You can ask it questions about the past articles or just topics of interest. It _should_ rely only on articles that were previously shared in this newsletter. The fun thing about Language Models, however, is that you can’t be certain that it will behave. The hackers in this audience might try to get into the details of this agent by asking something like this:
 
 ![](../images\1701701038291)
 

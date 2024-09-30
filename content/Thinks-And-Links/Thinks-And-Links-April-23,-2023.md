@@ -2,23 +2,23 @@
 title: Thinks And Links April 23, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- AI
-- Cybersecurity
-- Large Language Models
-- Ethics in AI
-- Future of Work
-- NIST
-- AI Policy
-- RSA Conference
-- Penetration Testing
-- ChatGPT
-- Elasticsearch
-- Stack Overflow
-- Copyright
-- SQL
-- AI Innovations
+  - Big Data
+  - Data Analytics
+  - AI
+  - Cybersecurity
+  - Large Language Models
+  - Ethics in AI
+  - Future of Work
+  - NIST
+  - AI Policy
+  - RSA Conference
+  - Penetration Testing
+  - ChatGPT
+  - Elasticsearch
+  - Stack Overflow
+  - Copyright
+  - SQL
+  - AI Innovations
 ---
 
 # Big Data & Analytics - Thinks & Links | April 23, 2023

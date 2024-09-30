@@ -2,12 +2,12 @@
 title: Thinks And Links September 24, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- AI Policy
-- Cybersecurity
-- Generative AI
-- Data Governance
+  - Big Data
+  - Data Analytics
+  - AI Policy
+  - Cybersecurity
+  - Generative AI
+  - Data Governance
 ---
 
 # Big Data & Analytics - Thinks and Links | September 24, 2023
@@ -54,11 +54,11 @@ Oops. A 38 Terabyte reminder that access control and data governance are very im
 
 > The simple step of sharing an AI dataset led to a major data leak, containing over 38TB of private data. The root cause was the usage of Account SAS tokens as the sharing mechanism. Due to a lack of monitoring and governance, SAS tokens pose a security risk, and their usage should be as limited as possible. These tokens are very hard to track, as Microsoft does not provide a centralized way to manage them within the Azure portal. In addition, these tokens can be configured to last effectively forever, with no upper limit on their expiry time. Therefore, using Account SAS tokens for external sharing is unsafe and should be avoided.
 
-*The simple step of sharing an AI dataset led to a major data leak, containing over 38TB of private data. The root cause was the usage of Account SAS tokens as the sharing mechanism. Due to a lack of monitoring and governance, SAS tokens pose a security risk, and their usage should be as limited as possible. These tokens are very hard to track, as Microsoft does not provide a centralized way to manage them within the Azure portal. In addition, these tokens can be configured to last effectively forever, with no upper limit on their expiry time. Therefore, using Account SAS tokens for external sharing is unsafe and should be avoided.*
+_The simple step of sharing an AI dataset led to a major data leak, containing over 38TB of private data. The root cause was the usage of Account SAS tokens as the sharing mechanism. Due to a lack of monitoring and governance, SAS tokens pose a security risk, and their usage should be as limited as possible. These tokens are very hard to track, as Microsoft does not provide a centralized way to manage them within the Azure portal. In addition, these tokens can be configured to last effectively forever, with no upper limit on their expiry time. Therefore, using Account SAS tokens for external sharing is unsafe and should be avoided._
 
 > In the wider scope, similar incidents can be prevented by granting security teams more visibility into the processes of AI research and development teams. As we see wider adoption of AI models within companies, it’s important to raise awareness of relevant security risks at every step of the AI development process, and make sure the security team works closely with the data science and research teams to ensure proper guardrails are defined.
 
-*In the wider scope, similar incidents can be prevented by **granting security teams more visibility into the processes of AI research and development teams. As we see wider adoption of AI models within companies, it’s important to raise awareness of relevant security risks at every step of the AI development process, and make sure the security team works closely with the data science and research teams to ensure proper guardrails are defined.*
+_In the wider scope, similar incidents can be prevented by \*\*granting security teams more visibility into the processes of AI research and development teams. As we see wider adoption of AI models within companies, it’s important to raise awareness of relevant security risks at every step of the AI development process, and make sure the security team works closely with the data science and research teams to ensure proper guardrails are defined._
 
 #### AI in Software Development: The Good, the Bad, and the Dangerous
 

@@ -2,14 +2,14 @@
 title: Thinks And Links May 17, 2024
 draft: false
 tags:
-- AI
-- Cybersecurity
-- Data Analytics
-- Big Data
-- OpenAI
-- Machine Learning
-- AI Security
-- AI Adoption
+  - AI
+  - Cybersecurity
+  - Data Analytics
+  - Big Data
+  - OpenAI
+  - Machine Learning
+  - AI Security
+  - AI Adoption
 ---
 
 # Thinks and Links | May 17, 2024
@@ -46,7 +46,7 @@ Google also demonstrated AI features that are coming soon such as real-time vide
 
 Much has been written about this elsewhere and much is still unknown but as of today, Friday morning: Exabeam and LogRhythm are merging and Palo Alto is Buying IBM's QRadar assets. We're watching closely to see how this shakes out: what happens to the various tools we've supported for a long time, and how it might impact recommendations to our clients. There's never been a better time to invite your clients to a SIEM Summit to discuss this market and strategic steps to take (regardless of SIEM) to mature your SOC.
 
-#### 
+####
 
 ---
 
@@ -84,7 +84,7 @@ Many additional examples and great links to MITRE content here for tactical step
 
 https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part
 
-*Written by Claude 3 Opus provided examples of my past writing + the report PDF*
+_Written by Claude 3 Opus provided examples of my past writing + the report PDF_
 
 Microsoft and LinkedIn just released their 2024 Work Trend Index Annual Report and the findings are sure to get your clients thinking. The major theme? AI at work has arrived, and while employees are excited to use it, organizations are struggling to keep up.
 
@@ -112,7 +112,7 @@ The data signals we've reached a pivotal moment for AI at work. Those who move q
 
 https://cloud.google.com/blog/products/identity-security/introducing-google-threat-intelligence-actionable-threat-intelligence-at-google-scale-at-rsa/
 
-*Written by Google Gemini Advanced provided examples of my past writing + the link + a few back-and-forth instructions to tweak it*
+_Written by Google Gemini Advanced provided examples of my past writing + the link + a few back-and-forth instructions to tweak it_
 
 Google's latest offering, Google Threat Intelligence, is making waves in the security world. Promising a "Google-scale" approach to threat intelligence, it's aggregating data from Mandiant, VirusTotal, and a vast array of open-source intel. This could be a game-changer, providing a comprehensive, real-time view of the threat landscape that was previously unattainable.
 
@@ -140,4 +140,4 @@ Lakera's Prompt Injection Test (PINT) Benchmark is a new evaluation tool for tes
 
 ---
 
-*You can chat with the newsletter archive at **https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest*
+_You can chat with the newsletter archive at \*\*https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest_

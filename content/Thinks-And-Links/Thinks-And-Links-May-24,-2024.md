@@ -2,13 +2,13 @@
 title: Thinks And Links May 24, 2024
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- AI Ethics
-- AI Governance
-- Data Privacy
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - AI Ethics
+  - AI Governance
+  - Data Privacy
 ---
 
 # Thinks and Links | May 24, 2024
@@ -41,7 +41,7 @@ I understand the privacy concerns and risks for technical IP. That said, on my p
 
 ---
 
-#### 
+####
 
 #### Understanding how a Large Language Model Thinks:
 
@@ -93,7 +93,7 @@ This weeks' guest brought a ton of insights to the podcast. I highly recommend l
 
 ---
 
-### 
+###
 
 ### Have a Great Weekend!
 
@@ -105,4 +105,4 @@ Google's new AI Overview with searches are a bit problematic....
 
 ---
 
-*You can chat with the newsletter archive at **https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest*
+_You can chat with the newsletter archive at \*\*https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest_

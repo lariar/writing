@@ -2,14 +2,14 @@
 title: Thinks And Links July 12, 2024
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI Innovation
-- Securing AI
-- AI Literacy
-- AI in Cybersecurity
-- Technology Newsletter
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI Innovation
+  - Securing AI
+  - AI Literacy
+  - AI in Cybersecurity
+  - Technology Newsletter
 ---
 
 # Thinks and Links | July 12, 2024
@@ -134,4 +134,4 @@ This work provides valuable insights into how different entities conceptualize a
 
 ---
 
-*You can chat with the newsletter archive at **https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest*
+_You can chat with the newsletter archive at \*\*https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest_

@@ -2,18 +2,18 @@
 title: Thinks And Links August 27, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- AI
-- Cybersecurity
-- Large Language Models
-- ChatGPT
-- Machine Learning
-- AI Security
-- Python
-- AI Vulnerabilities
-- Technology Trends
-- AI Adoption
+  - Big Data
+  - Data Analytics
+  - AI
+  - Cybersecurity
+  - Large Language Models
+  - ChatGPT
+  - Machine Learning
+  - AI Security
+  - Python
+  - AI Vulnerabilities
+  - Technology Trends
+  - AI Adoption
 ---
 
 # Big Data & Analytics - Thinks & Links | August 27, 2023

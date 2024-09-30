@@ -2,18 +2,18 @@
 title: Thinks And Links April 30, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- Large Language Models
-- ChatGPT
-- Data Privacy
-- AI Regulation
-- Google
-- OpenAI
-- Microsoft
-- AI Risk Management
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - Large Language Models
+  - ChatGPT
+  - Data Privacy
+  - AI Regulation
+  - Google
+  - OpenAI
+  - Microsoft
+  - AI Risk Management
 ---
 
 # Big Data & Analytics - Thinks & Links | April 30, 2023

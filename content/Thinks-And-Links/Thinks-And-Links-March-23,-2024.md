@@ -2,13 +2,13 @@
 title: Thinks And Links March 23, 2024
 draft: false
 tags:
-- AI
-- Cybersecurity
-- Big Data
-- Generative AI
-- Machine Learning
-- AI Security
-- Technology News
+  - AI
+  - Cybersecurity
+  - Big Data
+  - Generative AI
+  - Machine Learning
+  - AI Security
+  - Technology News
 ---
 
 # Thinks & Links | March 23, 2024
@@ -97,6 +97,6 @@ This article provides a beginner-friendly guide to understanding and using the H
 
 ---
 
-*You can now chat with the newsletter archive at **https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest*
+_You can now chat with the newsletter archive at \*\*https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest_
 
 ####

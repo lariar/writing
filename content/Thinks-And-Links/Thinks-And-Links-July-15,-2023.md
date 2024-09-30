@@ -2,14 +2,14 @@
 title: Thinks And Links July 15, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- AI
-- Cybersecurity
-- Generative AI
-- AI Regulations
-- AI Innovations
-- Technology News
+  - Big Data
+  - Data Analytics
+  - AI
+  - Cybersecurity
+  - Generative AI
+  - AI Regulations
+  - AI Innovations
+  - Technology News
 ---
 
 # Big Data & Analytics - Thinks and Links | July 15, 2023

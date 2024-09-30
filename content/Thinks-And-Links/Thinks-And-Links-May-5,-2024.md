@@ -2,16 +2,16 @@
 title: Thinks And Links May 5, 2024
 draft: false
 tags:
-- AI
-- Big Data
-- Cybersecurity
-- AI Guidelines
-- NIST
-- Generative AI
-- AI Risk Management
-- Data Protection
-- AI Ethics
-- AI Security
+  - AI
+  - Big Data
+  - Cybersecurity
+  - AI Guidelines
+  - NIST
+  - Generative AI
+  - AI Risk Management
+  - Data Protection
+  - AI Ethics
+  - AI Security
 ---
 
 # Thinks and Links | May 5, 2024
@@ -116,7 +116,7 @@ You can also track how the Federal Government's surge in AI talent is going than
 
 ---
 
-#### 
+####
 
 #### A Beautiful Mess that Nobody Needs
 
@@ -134,7 +134,7 @@ This research paper from Nvidia, UPenn, and UT Austin showcases the rapidity wit
 
 https://github.com/openai/openai-security-bots
 
-OpenAI has published several example Slackbots that can help to automate security functions. The tools are starting points for developing custom incident response, triaging tickets, and supporting SDLC. This will interact with the public OpenAI API, so if you have requirements to use a different LLM, modification will be needed. Even if you don't use the scripts, there are some great prompts within the code, such as: "You're a highly skilled security analyst who is excellent at asking the right questions to determine the true risk of a development project to your organization. You work at a small company with a small security team with limited resources. You ruthlessly prioritize your team's time to ensure that you can reduce the greatest amount of security risk with your limited resources. Please provide a summary of the key security design elements, potential vulnerabilities, and recommended mitigation strategies presented in the following project document. Highlight any areas of particular concern and emphasize best practices that have been implemented. Also outline all key technical aspects of the project that you assess would require a security review. Anything that deals with data, end users, authentication, authorization, encryption, untrusted user input, internet exposure, new features or risky technologies like file processing, xml parsing and so on"* {{[[r/moved]]}}
+OpenAI has published several example Slackbots that can help to automate security functions. The tools are starting points for developing custom incident response, triaging tickets, and supporting SDLC. This will interact with the public OpenAI API, so if you have requirements to use a different LLM, modification will be needed. Even if you don't use the scripts, there are some great prompts within the code, such as: "You're a highly skilled security analyst who is excellent at asking the right questions to determine the true risk of a development project to your organization. You work at a small company with a small security team with limited resources. You ruthlessly prioritize your team's time to ensure that you can reduce the greatest amount of security risk with your limited resources. Please provide a summary of the key security design elements, potential vulnerabilities, and recommended mitigation strategies presented in the following project document. Highlight any areas of particular concern and emphasize best practices that have been implemented. Also outline all key technical aspects of the project that you assess would require a security review. Anything that deals with data, end users, authentication, authorization, encryption, untrusted user input, internet exposure, new features or risky technologies like file processing, xml parsing and so on"\* {{[[r/moved]]}}
 
 #### Bobby Tables but with LLM Apps - Google NotebookLM Data Exfiltration
 
@@ -144,7 +144,7 @@ A walkthrough of how user provided data can include prompt injection and data ex
 
 ---
 
-### 
+###
 
 ### Have a Great Weekend!
 
@@ -154,4 +154,4 @@ May the Fourth Be With You
 
 ---
 
-*You can chat with the newsletter archive at **https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest*
+_You can chat with the newsletter archive at \*\*https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest_

@@ -2,13 +2,13 @@
 title: Thinks And Links February 3, 2024
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI Integration
-- Generative AI
-- Data Governance
-- AI Adoption
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI Integration
+  - Generative AI
+  - Data Governance
+  - AI Adoption
 ---
 
 # Thinks and Links | February 3, 2024
@@ -21,13 +21,13 @@ Big Data & Analytics - Thinks and Links | News and insights at the intersection 
 
 ![](../https://media.licdn.com/mediaD4E12AQGRFH4df-VdRQ)
 
-*New for 2024: 📫 **Subscribe to Thinks & Links** direct to your inbox*
+_New for 2024: 📫 **Subscribe to Thinks & Links** direct to your inbox_
 
 ### Happy Weekend
 
 ### Microsoft New Future of Work Report 2023
 
-Microsoft Research has published a comprehensive study into the integration of Large Language Models (LLMs) in the workplace. They use data from their unique perspective into how work happens on tools like Copilot, Teams, Azure, and Microsoft 365. There's also a survey of recent and foundational research into how automation, artificial intelligence, and human nature come together to provide meaning and drive outcomes at work. The *full report* is dense with insights, and here are a few take aways to think about for enabling and securing AI.
+Microsoft Research has published a comprehensive study into the integration of Large Language Models (LLMs) in the workplace. They use data from their unique perspective into how work happens on tools like Copilot, Teams, Azure, and Microsoft 365. There's also a survey of recent and foundational research into how automation, artificial intelligence, and human nature come together to provide meaning and drive outcomes at work. The _full report_ is dense with insights, and here are a few take aways to think about for enabling and securing AI.
 
 #### Enhancing Productivity and Skills with AI
 
@@ -77,15 +77,15 @@ Steps 1-4 are automated, with specialized tooling to detect and test the fix as 
 
 *https://betterappsec.com/how-automated-ai-code-analysis-can-scale-application-security-667002ad63c4*
 
-Excellent write-up by *better appsec* for how to use tools like ChatGPT, Github Copilot, or scripts hitting Generative AI endpoints to enable and accelerate application security programs. As the author eloquently explains, AppSec teams need to be experts on many technologies, their business-specific applications, and security concepts at a deep level. Generative AI helps them keep up with their business and scale their ability to help the organization publish secure code. There's a lot of valuable insights here, including example prompts and "Pro Tips" to really accelerate your AppSec workflows.
+Excellent write-up by _better appsec_ for how to use tools like ChatGPT, Github Copilot, or scripts hitting Generative AI endpoints to enable and accelerate application security programs. As the author eloquently explains, AppSec teams need to be experts on many technologies, their business-specific applications, and security concepts at a deep level. Generative AI helps them keep up with their business and scale their ability to help the organization publish secure code. There's a lot of valuable insights here, including example prompts and "Pro Tips" to really accelerate your AppSec workflows.
 
 #### How AI Has Been Happening
 
-*https://www.airstreet.com/blog/state-of-ai-report-5-years*If you want to understand all aspects of AI from Research to Industry to Government to where we might head next - the Annual *State of AI Report* from Air Street Capital is a must-read. This blog entry tracks how the report has evolved over the past five years and has some great insights on where trends were spotted early as well as prediction that missed the mark.
+*https://www.airstreet.com/blog/state-of-ai-report-5-years*If you want to understand all aspects of AI from Research to Industry to Government to where we might head next - the Annual _State of AI Report_ from Air Street Capital is a must-read. This blog entry tracks how the report has evolved over the past five years and has some great insights on where trends were spotted early as well as prediction that missed the mark.
 
 #### EU AI Act Moves Closer to Law
 
-*https://techcrunch.com/2024/02/02/eu-ai-act-coreper-vote/*The European Union's landmark regulation on Artificial Intelligence passed a key milestone this week as all 27 Member States approved the final text of the proposed law. It seems likely that the law will start to go into effect later this year with a phased roll out of provisions over the next two years. If you're interested in learning more about the proposed law check out *this GPT* or *this overview* from the IAPP.
+*https://techcrunch.com/2024/02/02/eu-ai-act-coreper-vote/*The European Union's landmark regulation on Artificial Intelligence passed a key milestone this week as all 27 Member States approved the final text of the proposed law. It seems likely that the law will start to go into effect later this year with a phased roll out of provisions over the next two years. If you're interested in learning more about the proposed law check out _this GPT_ or _this overview_ from the IAPP.
 
 #### CFOs: If You Want AI, do Data Governance and Cybersecurity first
 
@@ -105,8 +105,8 @@ Protect AI, a leader in AI and ML security, has launched Guardian, a groundbreak
 
 ---
 
-*WTH is this email? (Recap)*
+_WTH is this email? (Recap)_
 
-*Each week I get to talk with lots of clients, colleagues, and team members about fascinating topics at the intersection of cybersecurity, data, and AI. I’ve decided to share some of the fun. There’s so much going on in this space that impacts all of us. It’s exciting for me – and I hope you’ll be entertained too.*
+_Each week I get to talk with lots of clients, colleagues, and team members about fascinating topics at the intersection of cybersecurity, data, and AI. I’ve decided to share some of the fun. There’s so much going on in this space that impacts all of us. It’s exciting for me – and I hope you’ll be entertained too._
 
-*You can now chat with the newsletter archive at **https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest*
+_You can now chat with the newsletter archive at \*\*https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest_

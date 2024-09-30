@@ -2,13 +2,13 @@
 title: Thinks And Links June 24, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- AI Regulation
-- Cybersecurity
-- Data Governance
-- AI Governance
-- AI Risk Management
+  - Big Data
+  - Data Analytics
+  - AI Regulation
+  - Cybersecurity
+  - Data Governance
+  - AI Governance
+  - AI Risk Management
 ---
 
 # Big Data & Analytics - Thinks and Links | June 24, 2023

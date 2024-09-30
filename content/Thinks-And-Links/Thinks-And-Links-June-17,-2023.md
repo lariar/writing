@@ -2,14 +2,14 @@
 title: Thinks And Links June 17, 2023
 draft: false
 tags:
-- Cybersecurity
-- AI
-- Big Data
-- Data Analytics
-- Ransomware
-- Cyber Attack
-- EU AI Regulation
-- AI Security
+  - Cybersecurity
+  - AI
+  - Big Data
+  - Data Analytics
+  - Ransomware
+  - Cyber Attack
+  - EU AI Regulation
+  - AI Security
 ---
 
 # Big Data & Analytics - Thinks and Links | June 17, 2023
@@ -72,7 +72,7 @@ Bing Chat:
 
 Sure, I can provide you some Splunk SPL searches based on the threat hunting suggestions I gave you. Here are some examples:
 
-To search for any files named human2.aspx or _human2.aspx on your web servers, you can use the following search:
+To search for any files named human2.aspx or \_human2.aspx on your web servers, you can use the following search:
 
 To search for any network connections to or from the IP addresses listed in the article, you can use the following search:
 
@@ -128,4 +128,4 @@ Have a Great Weekend!
 
 ![No alt text provided for this image](../images\1686972561405)
 
-*                    **Metrics reporting** doesn't have to be "Charlie Work"*
+-                    **Metrics reporting** doesn't have to be "Charlie Work"*

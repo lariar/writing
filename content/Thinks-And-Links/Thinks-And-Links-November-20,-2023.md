@@ -2,14 +2,14 @@
 title: Thinks And Links November 20, 2023
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- OpenAI
-- Generative AI
-- AI Ethics
-- AI Security
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - OpenAI
+  - Generative AI
+  - AI Ethics
+  - AI Security
 ---
 
 # BD&A - Thinks and Links | November 20, 2023

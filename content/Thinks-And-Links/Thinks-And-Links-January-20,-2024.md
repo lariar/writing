@@ -2,18 +2,18 @@
 title: Thinks And Links January 20, 2024
 draft: false
 tags:
-- Big Data
-- Data Analytics
-- Cybersecurity
-- AI
-- Data Privacy
-- Data Security
-- Machine Learning
-- Generative AI
-- Large Language Models
-- AI Governance
-- AI Research
-- AI Development Tools
+  - Big Data
+  - Data Analytics
+  - Cybersecurity
+  - AI
+  - Data Privacy
+  - Data Security
+  - Machine Learning
+  - Generative AI
+  - Large Language Models
+  - AI Governance
+  - AI Research
+  - AI Development Tools
 ---
 
 # Thinks & Links | January 20, 2024
@@ -26,13 +26,13 @@ Big Data & Analytics - Thinks and Links | News and insights at the intersection 
 
 ![](../https://media.licdn.com/mediaD4E12AQFRCT7Lx77FEQ)
 
-*New for 2024: 📫 **Subscribe to Thinks & Links** direct to your inbox*
+_New for 2024: 📫 **Subscribe to Thinks & Links** direct to your inbox_
 
 ### Happy Weekend!
 
 #### Copilot for All
 
-*Big announcement* from Microsoft expanding access to Copilot in the Microsoft 365 suite of tools. For the same cost as a ChatGPT license, you can now access the same model GPT-4 as well as have it:
+_Big announcement_ from Microsoft expanding access to Copilot in the Microsoft 365 suite of tools. For the same cost as a ChatGPT license, you can now access the same model GPT-4 as well as have it:
 
 Generate drafts, summarize, and rewrite your content on Word
 
@@ -44,7 +44,7 @@ Create status updates based on a team's meetings, emails, and chat threads
 
 Soon you will be able to create Copilot GPTs (like on ChatGPT) likely with similar functionality and wide-ranging applicability
 
-As someone who lives in PowerPoint, this excites me most of all: *Copilot in PowerPoint – Copilot Snack Show Me How Video*
+As someone who lives in PowerPoint, this excites me most of all: _Copilot in PowerPoint – Copilot Snack Show Me How Video_
 
 #### Key Details of the Announcement
 
@@ -58,7 +58,7 @@ Last month, we also *announced* eligibility of Copilot for Microsoft 365 for�
 
 #### Getting Ready
 
-The benefits of Copilot are immense, but so are the privacy and data risks. Now is a great time to *Prepare for Copilot* by doing the following:
+The benefits of Copilot are immense, but so are the privacy and data risks. Now is a great time to _Prepare for Copilot_ by doing the following:
 
 Assess AI Readiness: Evaluate your organization's readiness for AI integration. This involves understanding your organization’s relationship to change and innovation, its current stance on AI, willingness to adopt AI technologies, investment and funding capabilities, and endpoint management and security capabilities.
 
@@ -74,7 +74,7 @@ Invest in Change Management and Training: Prepare your workforce for the transit
 
 Secure Funding for AI Deployment: Ensure that there is adequate funding and support from leadership for implementing AI technologies. This includes budgeting for both the deployment of the technology and the necessary training and change management initiatives.
 
-Get Help: For personalized guidance, consider speaking with experts. *I* *happen* to *know* a *few*, but regardless of where you find them, Advisors can help smooth the transition and avoid known security and product pitfalls.
+Get Help: For personalized guidance, consider speaking with experts. *I* *happen* to _know_ a _few_, but regardless of where you find them, Advisors can help smooth the transition and avoid known security and product pitfalls.
 
 Bottom Line: If you see something in AI that’s only available for big companies / sophisticated data science teams, there’s a simple solution:
 
@@ -88,7 +88,7 @@ Copilot for all is here.
 
 *https://arxiv.org/abs/2401.05566*
 
-*Anthropic* released a troubling research finding last week demonstrating how a large language model can hide adversarial or undesirable behavior until triggered. Imagine certifying through rigorous testing and evaluation that a model is "safe" and production ready. Then the right sequence of words unlocks a different mode of operation, ready to code malware or betray secrets.
+_Anthropic_ released a troubling research finding last week demonstrating how a large language model can hide adversarial or undesirable behavior until triggered. Imagine certifying through rigorous testing and evaluation that a model is "safe" and production ready. Then the right sequence of words unlocks a different mode of operation, ready to code malware or betray secrets.
 
 This is very concerning if true. As with all research, it's going to take time and independent verification before we truly understand the problem and then what to do about it. Until then, please please please treat LLMs with care. There are thousands of low-risk, high-value use cases that won't be impacted by a mis-behaving language model. Focus there, build systems and processes to secure them, and monitor this space for further research developments.
 
@@ -96,9 +96,9 @@ This is very concerning if true. As with all research, it's going to take time a
 
 *https://protectai.com/threat-research/january-vulnerability-report*
 
-Nice summary of some Critical and High CVE's found and fixed by the AI/ML community. Particularly noteworthy to see popular Machine Learning platform *MLflow* on this list a few times. Also a very interesting Deserialization of Untrusted Data attack that I think is worth highlighting.
+Nice summary of some Critical and High CVE's found and fixed by the AI/ML community. Particularly noteworthy to see popular Machine Learning platform _MLflow_ on this list a few times. Also a very interesting Deserialization of Untrusted Data attack that I think is worth highlighting.
 
-*CVE-2023-7018* is an exploit that demonstrates how downloading an open source model from Hugging Face can lead to remote code execution. With one line of python code, an unsuspecting developer who believes their downloading the latest-and-greatest new AI model can instead have the code create and run malware on their machine.
+_CVE-2023-7018_ is an exploit that demonstrates how downloading an open source model from Hugging Face can lead to remote code execution. With one line of python code, an unsuspecting developer who believes their downloading the latest-and-greatest new AI model can instead have the code create and run malware on their machine.
 
 ![](../images\1705749701315)
 
@@ -110,7 +110,7 @@ Details: *https://huntr.com/bounties/e1a3e548-e53a-48df-b708-9ee62140963c/*
 
 *https://decrypt.co/205436/llama-3-release-date-rumored-meta-ai-challenger*
 
-Rumors and recent statements from Meta CEO Mark Zuckerberg lead us to believe that sometime in 2024 we will see the release of Llama 3. *Llama 2* is one of the leading Open Source alternatives to large closed source models like OpenAI GPT-4 or Google Gemini. It is the starting point for a great deal of research and user customization, fine tuning, and production use cases. With a large and growing inventory of specialized GPU AI-trianing hardware and a commitment to open-sourcing anything that is developed - Llama's next release is sure to make waves.
+Rumors and recent statements from Meta CEO Mark Zuckerberg lead us to believe that sometime in 2024 we will see the release of Llama 3. _Llama 2_ is one of the leading Open Source alternatives to large closed source models like OpenAI GPT-4 or Google Gemini. It is the starting point for a great deal of research and user customization, fine tuning, and production use cases. With a large and growing inventory of specialized GPU AI-trianing hardware and a commitment to open-sourcing anything that is developed - Llama's next release is sure to make waves.
 
 Bottom line: Many problems that the current generation of AI applications have will likely be mitigated by better Open Source options. If your proof of concept model is unreliable today, sit tight. Engineering will help, but a better LLM engine is coming.
 
@@ -138,7 +138,7 @@ Nice video demo of a tool called Stride GPT that can be used to automatically ge
 
 #### OWASP AI Exchange
 
-*owaspai.org*
+_owaspai.org_
 
 I was excited to find this over the past week. Looking forward to learning and contributing. If you're also interested in this topic, the purpose statement says it all:
 
@@ -158,7 +158,7 @@ If you are building with AI, odds are good that you've spent a lot of money with
 
 *https://www.emergentmind.com/*
 
-A great use case for AI is helping to keep up with research on AI. Here's an aggregator of research that looks at X (twitter), Youtube, GitHub, and HackerNews for references to research and then provides some LLM-assisted summarization and references. A great source for seeing how the open source and research community are solving problems related to AI. Another useful resource is my *Research Buddy* who helps think through problems and query research papers for relevant insights.
+A great use case for AI is helping to keep up with research on AI. Here's an aggregator of research that looks at X (twitter), Youtube, GitHub, and HackerNews for references to research and then provides some LLM-assisted summarization and references. A great source for seeing how the open source and research community are solving problems related to AI. Another useful resource is my _Research Buddy_ who helps think through problems and query research papers for relevant insights.
 
 ---
 
@@ -168,10 +168,10 @@ A great use case for AI is helping to keep up with research on AI. Here's an agg
 
 ![](../images\1705749719839)
 
-*WTH is this email? (Recap)*
+_WTH is this email? (Recap)_
 
-*Each week I get to talk with lots of clients, colleagues, and team members about fascinating topics at the intersection of cybersecurity, data, and AI. I’ve decided to share some of the fun. There’s so much going on in this space that impacts all of us. It’s exciting for me – and I hope you’ll be entertained too.*
+_Each week I get to talk with lots of clients, colleagues, and team members about fascinating topics at the intersection of cybersecurity, data, and AI. I’ve decided to share some of the fun. There’s so much going on in this space that impacts all of us. It’s exciting for me – and I hope you’ll be entertained too._
 
-*🤖 Chat with the newsletter archive at **https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest*
+_🤖 Chat with the newsletter archive at \*\*https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest_
 
-* 📫 **Subscribe to Thinks & Links** direct to your inbox*
+- 📫 **Subscribe to Thinks & Links** direct to your inbox\*

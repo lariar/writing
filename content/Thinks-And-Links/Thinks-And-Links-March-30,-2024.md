@@ -2,13 +2,13 @@
 title: Thinks And Links March 30, 2024
 draft: false
 tags:
-- AI
-- Generative AI
-- Open Source
-- Cybersecurity
-- Large Language Models
-- AI Security
-- AI Risks
+  - AI
+  - Generative AI
+  - Open Source
+  - Cybersecurity
+  - Large Language Models
+  - AI Security
+  - AI Risks
 ---
 
 # Thinks & Links | March 30, 2024
@@ -113,4 +113,4 @@ In cyber-security, the models could solve basic capture-the-flag challenges and 
 
 ---
 
-*You can chat with the newsletter archive at **https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest*
+_You can chat with the newsletter archive at \*\*https://chat.openai.com/g/g-IjiJNup7g-thinks-and-links-digest_
