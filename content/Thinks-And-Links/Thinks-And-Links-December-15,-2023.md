@@ -18,12 +18,6 @@ tags:
 
 ![](../images\1679742887729)
 
-#### BD&A - Thinks and Links
-
-Big Data & Analytics - Thinks and Links | News and insights at the intersection of cybersecurity, data, and AI
-
-![](../https://media.licdn.com/mediaD4E12AQHv6ySmGJYF-A)
-
 ### Happy Friday!
 
 #### Everything is Evals, just ask David Lee Roth
