@@ -4,11 +4,15 @@ draft: false
 tags:
   - AI
   - Cybersecurity
-  - Big Data
-  - Generative AI
-  - Machine Learning
-  - AI Security
-  - Technology News
+  - Big
+  - Data
+  - Generative
+  - Machine
+  - Learning
+  - AI
+  - Technology
+  - News
+  - AI-Security
 ---
 
 # Thinks & Links | March 23, 2024
