@@ -31,7 +31,7 @@ const config: QuartzConfig = {
         lightMode: {
           light: "#FFFFFF", // Page background: a deep blue-gray to provide a moody but not overly dark base.
           lightgray: "#AEB7BD", // Borders: a light gray for clear separation without being too harsh.
-          gray: "#717D86", // Graph links and heavier borders: a mid-tone gray with some contrast against lightgray.
+          gray: "#F6F7F8", // Graph links and heavier borders: a mid-tone gray with some contrast against lightgray.
           darkgray: "#000000", // Body text: a much lighter gray for readability against a dark background.
           dark: "#000000", // Header text and icons: near white for prominent readability.
           secondary: "#4A90E2", // Link color and current graph node: a bright, noticeable blue for clear visual cues.
