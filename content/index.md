@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Writing
 ---
 
-This is a repository for my writing and a digital garden for online sharing
+This is a repository for my writing and a [[Digital Garden]] for online sharing.
