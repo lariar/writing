@@ -30,13 +30,13 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#FFFFFF", // Page background: a deep blue-gray to provide a moody but not overly dark base.
-          lightgray: "#AEB7BD", // Borders: a light gray for clear separation without being too harsh.
-          gray: "#F6F7F8", // Graph links and heavier borders: a mid-tone gray with some contrast against lightgray.
+          lightgray: "#91afe540", // Borders: a light gray for clear separation without being too harsh.
+          gray: "#717D86", // Graph links and heavier borders: a mid-tone gray with some contrast against lightgray.
           darkgray: "#000000", // Body text: a much lighter gray for readability against a dark background.
           dark: "#000000", // Header text and icons: near white for prominent readability.
           secondary: "#4A90E2", // Link color and current graph node: a bright, noticeable blue for clear visual cues.
           tertiary: "#667c85", // Hover states and visited graph nodes: a subtle bluish-gray to differentiate visited/hovered states.
-          highlight: "rgba(143, 159, 168, 0.25)", // Internal link background, highlighted text: slightly lightened for a clear highlight but not too intrusive.
+          highlight: "rgba(143, 159, 169, 0.25)", // Internal link background, highlighted text: slightly lightened for a clear highlight but not too intrusive.
           textHighlight: "#FFF60088", // Markdown highlighted text background: a bright yellow, soft yet visible.
         },
         darkMode: {
