@@ -5,7 +5,7 @@
 
 Despite its benefits, ChatGPT has opened a Pandora's box of security risks. Here's what to know about protecting your company from criminal exploitation of AI-based chatbots.
 
-## The Good: How Companies Benefit From AI, Done Right
+## The Good: How Companies Benefit From AI, Done Right 
 
 Companies are using AI for many purposes, including improving internal and customer-facing searches and employee productivity. AI usage is expected to grow significantly, with Gartner predicting that by 2025, 30% of outbound marketing messages from organizations will be generated using AI, up from just 2% in 2022.
 
