@@ -2,30 +2,34 @@
 title: Thinks And Links July 2, 2023
 draft: false
 tags:
-  - Big Data
-  - Data Analytics
+  - Big
+  - Data
+  - Data
+  - Analytics
   - AI
   - Cybersecurity
-  - Generative AI
-  - Data Governance
-  - AI Risk Management
-  - MITRE ATT&CK
-  - AI in Business
+  - Generative
+  - AI
+  - Data
+  - Governance
+  - AI
+  - Risk
+  - Management
+  - MITRE
+  - ATT&CK
+  - AI
+  - in
+  - Business
+  - Databricks
 ---
 
 # Big Data & Analytics - Thinks & Links | July 2, 2023
 
-![](../images\1679742887729)
-
-#### BD&A - Thinks and Links
-
-Big Data & Analytics - Thinks and Links | News and insights at the intersection of cybersecurity, data, and AI
-
 ![This Lakehouse is made of data bricks](../https://media.licdn.com/mediaD4E12AQEORyFVVT3SHw)
 
-### Happy (early) Independence Day!
+# Happy (early) Independence Day!
 
-#### Living in the future
+## Living in the future
 
 The first thing you’ll notice on the drive from San Francisco’s airport is that unlike anywhere else in the country, the billboards here all seem to be about AI. The Bay Area is buzzing with excitement over Large Language Models and Generative AI. I was in town this week to participate in Databricks’ Data and AI Summit – so perhaps I should not have been surprised.
 
@@ -55,31 +59,31 @@ Most autonomous AI agents right now make for awesome demonstrations, but they do
 
 ---
 
-Most Enterprise SIEMs Blind to MITRE ATT&CK Tactics
+## Most Enterprise SIEMs Blind to MITRE ATT&CK Tactics
 
 https://www.darkreading.com/analytics/enterprise-siem-blind-mitre-attack-coverage
 
 A recent report by CardinalOps revealed that most SIEM implementations have significant gaps in coverage, only detecting 24% of all MITRE ATT&CK techniques used by threat actors. Organizations aren’t doing enough to focus on scaling detection-engineering. Automation can help to accelerate this as well as to be ready for SIEM detections against AI-enabled threats
 
-How Generative AI Can Dupe SaaS Authentication
+## How Generative AI Can Dupe SaaS Authentication
 
 https://thehackernews.com/2023/06/how-generative-ai-can-dupe-saas.html
 
 Companies of all shapes and sizes rely on SaaS components to carry on business. This article discusses several of the ways that AI can be used either directly against them or as a “trojan horse” to enable traditional attacks. Implementing multi-factor authentication, physical security keys, and continuous monitoring are all good ideas for your SaaS platform. Security tooling, proactive communication with employees, and a robust security solution are all important to mitigate these risks.
 
-Cloud Security Alliance ChatGPT Guidance Paper
+## Cloud Security Alliance ChatGPT Guidance Paper
 
 https://cloudsecurityalliance.org/press-releases/2023/04/24/cloud-security-alliance-releases-first-chatgpt-guidance-paper-and-issues-call-for-artificial-intelligence-roadmap-collaboration
 
 Sharing another helpful resource – this time from the Cloud Security Alliance (CSA) – called "Security Implications of ChatGPT." The report discusses how ChatGPT can aid cybersecurity, its potential misuse, direct attacks on it, and responsible usage guidelines. Additionally, it suggests various use cases for enhancing cybersecurity in organizations.
 
-Denver-based Cybersecurity Firm Discusses Generative AI and Security
+## Denver-based Cybersecurity Firm Discusses Generative AI and Security
 
 https://digital.cobizmag.com/2021/SUM23/index.html (Page 78 & 79)
 
 Navigate through this e-magazine to see an interview about AI, cybersecurity, and risk management. Available in print for those of you in Denver!
 
-Executives (Wisely) not Reducing Headcount Due to AI… Yet
+## Executives (Wisely) not Reducing Headcount Due to AI… Yet
 
 https://www.forbes.com/sites/joemckendrick/2023/06/28/executives-not-inclined-to-remove-humans-from-ai-decision-making/?sh=7fd58177778b
 
@@ -87,6 +91,6 @@ A survey of 1,000 executives worldwide reveals that 93% believe it is important 
 
 ---
 
-Have a Great Weekend!
+# Have a Great Weekend!
 
 ![No alt text provided for this image](../images\1688332870447)
