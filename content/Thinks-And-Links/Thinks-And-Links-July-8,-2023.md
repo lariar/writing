@@ -89,5 +89,3 @@ Code, Low-Code, or No-Code – there are some really cool projects, tools, video
 Have a Great Weekend!
 
 ![No alt text provided for this image](../images\1688788425182)
-
-
