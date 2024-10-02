@@ -1,6 +1,6 @@
+
 > Source: [ITPro Today - ChatGPT and Cybersecurity: The Good, the Bad, and the Careful](https://www.itprotoday.com/security/chatgpt-and-cybersecurity-good-bad-and-careful) (Publication Date: March 15, 2023)
 
-# ChatGPT and Cybersecurity: The Good, the Bad, and the Careful
 
 Despite its benefits, ChatGPT has opened a Pandora's box of security risks. Here's what to know about protecting your company from criminal exploitation of AI-based chatbots.
 

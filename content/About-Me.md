@@ -21,10 +21,10 @@ draft: true
 ## 2. **Ernst & Young (2015 - 2021)**
 - **Advanced Analytics Leadership**:
   - Led the development of advanced analytics solutions for financial services clients, managing projects ranging from $100K to $3M.
-  - Enhanced compliance at a global bank by leading a team to develop machine learning scripts, achieving 90% accuracy in regulatory obligation assessments.
+  - Championed the “EY Voice” Natural Language Processing (NLP) capability offering which introduced AI capabilities into compliance and risk processes at major financial institutions
 
 - **Transformative Projects**:
-  - Developed natural language processing (NLP) capabilities resulting in $2M in additional sales and improved client product offerings.
+  - Developed natural language processing (NLP) capabilities resulting in $2M in net additional sales at client account and improved portfolio of client product offerings.
   - Achieved a 90% reduction in review time for legal and compliance materials through the deployment of a custom machine learning tool.
 
 - **Mergers & Acquisitions (M&A)**:
@@ -32,20 +32,20 @@ draft: true
 
 ## 3. **Standard & Poor's / Capital IQ (2008 - 2015)**
 - **Data Strategy & Operations**:
-  - Managed corporate and sovereign financial data, ensuring high data quality and reliability through strategic dictionary lineage and data operations management.
+  - Managed financial data used to determine corporate and country-level credit ratings
   - Reduced operational costs by 50% and accelerated data delivery speed through process reengineering and automation initiatives.
 
 - **Product Management**:
   - Launched a new suite of financial research tools, generating $200K in incremental revenue in the first year through strategic planning and execution.
 
-## 4. **Naible Startup Involvement**
+## 4. **Startup Advisor**
 - **AI Consulting and Advisory**:
   - Contributed to the development of AI-driven solutions focused on secure AI adoption and innovation.
-  - Engaged in strategy and product development, supporting the potential growth of Naible towards a Series A funding event.
+  - Engaged in strategy and product development, supporting the potential growth of stealth startup towards a series of financial milestones.
 
 ## 5. **Public Speaking and Thought Leadership**
 - Delivered numerous keynote speeches and presentations at industry conferences, discussing the intersection of Generative AI and cybersecurity.
-- Published articles and appeared in interviews focused on AI strategy and secure AI adoption, establishing a thought leadership presence in the AI security space.
+- Published [Articles](Media%20Links.md) and appeared in interviews focused on AI strategy and secure AI adoption, establishing a thought leadership presence in the AI security space.
 
 ## 6. **Professional Certifications & Awards**
 - Certified Data & Analytics Leader (Optiv)
