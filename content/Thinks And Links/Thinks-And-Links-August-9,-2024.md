@@ -11,8 +11,6 @@ tags:
   - AI Ethics
 ---
 
-# Thinks and Links | August 9, 2024
-
 ![](../images\1679742887729)
 
 #### BD&A - Thinks and Links

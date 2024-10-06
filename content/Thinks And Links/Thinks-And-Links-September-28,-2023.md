@@ -1,5 +1,5 @@
 ---
-title: Thinks And Links September 28, 2024
+title: Thinks And Links September 28, 2023
 draft: false
 tags:
   - Big Data

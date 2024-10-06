@@ -16,16 +16,6 @@ tags:
   - AI Policy
 ---
 
-# Thinks and Links | August 30, 2024
-
-![](../images\1679742887729)
-
-#### BD&A - Thinks and Links
-
-Big Data & Analytics - Thinks and Links | News and insights at the intersection of cybersecurity, data, and AI
-
-![](../https://media.licdn.com/mediaD4E12AQHgEvfQfQDcng)
-
 ### Happy Friday!
 
 A recent news story based on research from Arize AI sheds light on how Fortune 500 companies are addressing AI in their SEC filings, and the results are eye-opening. This report quantifies much of what we've been hearing from clients. The data paints a vivid picture of AI's growing influence and underscores a crucial point: AI governance isn't just a technical consideration, it's rapidly emerging as a critical business imperative.

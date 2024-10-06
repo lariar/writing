@@ -1,32 +1,28 @@
 ---
-title: Thinks And Links August 12, 2023
+title: Thinks & Links | August 12, 2023
 draft: false
 tags:
-  - Big Data
-  - Data Analytics
+  - Big
+  - Data
+  - Data
+  - Analytics
   - Cybersecurity
   - AI
-  - Technology Advancements
-  - Generative AI
-  - Natural Language Processing
-  - Economic Development
-  - Security Risks
+  - Technology
+  - Trends
+  - Generative
+  - AI
+  - AI
+  - Ethics
+  - AI
   - Governance
-  - Azure OpenAI
-  - Data Security
-  - AI Strategy
-  - Productivity
+  - Risk
+  - Management
 ---
 
 # Big Data & Analytics - Thinks & Links | August 12, 2023
 
 ![](../images\1679742887729)
-
-#### BD&A - Thinks and Links
-
-Big Data & Analytics - Thinks and Links | News and insights at the intersection of cybersecurity, data, and AI
-
-![](../https://media.licdn.com/mediaD4E12AQFbnP67x0G-4Q)
 
 ### Happy Weekend!
 
